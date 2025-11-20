@@ -99,7 +99,7 @@ while True:
         elif restart == "J":
             break
         else:
-            print(bcolors.RED + f"Ogiltigt val. Svara med J eller N.")
+            print(bcolors.RED + f"Ogiltig inmatning. Svara med J eller N.")
             
     if restart == "N":
         break
