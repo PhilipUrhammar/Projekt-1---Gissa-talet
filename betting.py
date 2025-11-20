@@ -17,7 +17,7 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
-# 1. Spelet ska själv slumpa ett tal (mellan 1-100) som är hemligt: random.randint(1, 100), man ska ha sju försök. Du får själv bestämma hur spelet ska se ut
+#Ett spel där du bettar pengar på att gissa fram ett tal mellan 1 till 100 med 7 försök.
 import os
 import random
 import time
